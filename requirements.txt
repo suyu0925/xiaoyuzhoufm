@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+openai==1.52.2
+openai-whisper==20240930
+python-dotenv==1.0.1
